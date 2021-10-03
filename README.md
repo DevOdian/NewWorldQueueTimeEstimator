@@ -1,5 +1,5 @@
 # newWorldQueueTimeEstimator
-Linearly estimates the current time left to wait until joining a locally running New World (Game) session. The queue positions are received using the [Tesseract OCR API](https://github.com/tesseract-ocr/tesseract).
+Linearly estimates the time left when locally queuing to join a New World (Game) server. The queue positions are received using the [Tesseract OCR API](https://github.com/tesseract-ocr/tesseract).
 
 ## My personal non-binding building environment conditions
 - IntelliJ IDEA 2020.2.2
