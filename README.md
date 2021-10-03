@@ -25,4 +25,4 @@ Tesseract OCR trained data (tessData):
 - *eng.traineddata*, *deu.traineddata*: [tesseract-ocr/tessdata.git](https://github.com/tesseract-ocr/tessdata.git)
 - *digits.traineddata*: [Shreeshrii/tessdata_shreetest.git](https://github.com/Shreeshrii/tessdata_shreetest.git)
 
-Code base to make screenshots of specific window: [StackOverflow: wutzebaer](https://stackoverflow.com/a/47182139)
+Code base to make screenshots of specific windows: [StackOverflow: wutzebaer](https://stackoverflow.com/a/47182139)
